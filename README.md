@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheCryptSMP/.github/main/profile/banner.png" alt="The Crypt SMP" width="100%">
+  <img src="https://raw.githubusercontent.com/TheCryptSMP/.github/main/banner.png" alt="The Crypt SMP" width="100%">
 </p>
 
 <h3 align="center">A bilingual Vanilla+ Minecraft SMP for friends &amp; family</h3>
